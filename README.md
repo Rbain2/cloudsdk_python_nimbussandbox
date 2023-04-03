@@ -1,2 +1,4 @@
 # cloudsdk_python_nimbussandbox
-This is to check predictions using python code. 
+This is torun  predictions using models deployed on vertex using python code. 
+use testpredict.py
+a sample input file for the multimodal dataset is included 
